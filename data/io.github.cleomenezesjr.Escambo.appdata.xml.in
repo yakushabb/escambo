@@ -2,8 +2,8 @@
 <component type="desktop">
   <id>io.github.cleomenezesjr.Escambo</id>
   <launchable type="desktop-id">io.github.cleomenezesjr.Escambo.desktop</launchable>
-  <name translatable="no">Escambo</name>
-  <developer_name translatable="no">Cleo Menezes Jr.</developer_name>
+  <name translate="no">Escambo</name>
+  <developer_name translate="no">Cleo Menezes Jr.</developer_name>
   <update_contact>cleomenezesjr@gmail.com</update_contact>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0-or-later</project_license>
@@ -32,7 +32,7 @@
   <content_rating type="oars-1.1"/>
   <releases>
     <release version="0.1.2" date="2023-06-16">
-      <description>
+      <description translate="no">
         <ul>
           <li>Add new flat design</li>
           <li>Turkish translation</li>
@@ -42,7 +42,7 @@
       </description>
     </release>
     <release version="0.1.1" date="2023-05-21">
-      <description>
+      <description translate="no">
         <ul>
           <li>Fix inability to select response code</li>
           <li>Update to Blueprint to 0.8.1</li>
@@ -56,7 +56,7 @@
       </description>
     </release>
     <release version="0.1.0" date="2023-05-13">
-      <description>
+      <description translate="no">
         <p>Welcome to Escambo</p>
       </description>
     </release>
