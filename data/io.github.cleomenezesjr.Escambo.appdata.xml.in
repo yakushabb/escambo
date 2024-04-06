@@ -2,6 +2,7 @@
 <component type="desktop">
   <id>io.github.cleomenezesjr.Escambo</id>
   <launchable type="desktop-id">io.github.cleomenezesjr.Escambo.desktop</launchable>
+  <translation type="gettext">escambo</translation>
   <name translate="no">Escambo</name>
   <developer_name translate="no">Cleo Menezes Jr.</developer_name>
   <update_contact>cleomenezesjr@gmail.com</update_contact>
